@@ -1,0 +1,17 @@
+.model{
+    margin: 20% auto;
+    height: 0;
+    width: 0;
+
+    border: 100px solid;
+    border-color: #90B9B5 #CAA478 #E9E5D9 #B1CAD0;
+}
+
+
+.circle{
+    margin:20% auto;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    background-color: #776EAF;
+}
