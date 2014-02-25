@@ -1,0 +1,8 @@
+.lemon{
+    width: 200px;
+    height: 200px;
+    margin:20% auto;
+    background: #F5F240;
+    border: 1px solid #F0D900;
+    border-radius: 15px 150px 30px 150px;
+}
